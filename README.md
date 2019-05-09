@@ -57,7 +57,6 @@ Initial steps:
 
 The example code to hopefully enable you to more easily make sense of what is going on.
 
-
 # Using scene loaders
 [Using Three.js STL loader with angular](https://stackoverflow.com/questions/46519609/using-three-js-stl-loader-with-angular)
 [How to load OBJ model with three.js in TypeScript](https://stackoverflow.com/questions/16334505/how-to-load-obj-model-with-three-js-in-typescript)
@@ -65,8 +64,8 @@ The example code to hopefully enable you to more easily make sense of what is go
 
 
 ### Install OrbitControls via npm:
-- npm install three-orbit-controls --save
-- npm install three-mtl-loader --save
+
+npm install --save three-orbit-controls three-mtl-loader three-obj-loader
 
 "scripts": [
               "node_modules/three/build/three.js",                           
@@ -77,3 +76,16 @@ The example code to hopefully enable you to more easily make sense of what is go
               "node_modules/three-stl-loader/index.js",
               "node_modules/three-orbit-controls/index.js",
             ],
+
+
+# babylonjs setup instructions
+
+[NPM](https://doc.babylonjs.com/features/npm_support#example-using-webpack)
+
+### Adding babylon support
+
+We will start a simple project with Babylon core module, the loaders, and the GUI.
+
+First - let's install babylon's dependencies:
+
+npm install --save babylonjs babylonjs-loaders babylonjs-gui
