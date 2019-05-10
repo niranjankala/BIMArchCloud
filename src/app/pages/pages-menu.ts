@@ -12,26 +12,24 @@ export const MENU_ITEMS: NbMenuItem[] = [
     icon: 'nb-home',
     link: '/pages/iot-dashboard',
   },
-    {
-    title: 'Forms',
+    { 
+    title: 'BABYLON.JS',
     icon: 'nb-compose',
     children: [
       {
-        title: 'Form Inputs',
-        link: '/pages/forms/inputs',
-      },
+        title: 'OBJLoader',
+        link: '/pages/babylon/objloader',
+      }
+    ],
+  },
+  { 
+    title: 'THREE.JS',
+    icon: 'nb-gear',
+    children: [
       {
-        title: 'Form Layouts',
-        link: '/pages/forms/layouts',
-      },
-      {
-        title: 'Buttons',
-        link: '/pages/forms/buttons',
-      },
-      {
-        title: 'Datepicker',
-        link: '/pages/forms/datepicker',
-      },
+        title: 'OBJLoader',
+        link: '/pages/threejs/objloader',
+      }
     ],
   },
   // {
