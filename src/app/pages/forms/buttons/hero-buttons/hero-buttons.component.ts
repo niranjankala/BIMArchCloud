@@ -3,7 +3,7 @@ import { NbThemeService } from '@nebular/theme';
 import { Subscription } from 'rxjs';
 
 @Component({
-  selector: 'ngx-hero-buttons',
+  selector: 'bac-hero-buttons',
   styleUrls: ['./hero-buttons.component.scss'],
   templateUrl: './hero-buttons.component.html',
 })

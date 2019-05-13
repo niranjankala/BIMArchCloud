@@ -4,7 +4,7 @@ import { takeWhile } from 'rxjs/operators';
 import { CountryOrderData } from '../../../@core/data/country-order';
 
 @Component({
-  selector: 'ngx-country-orders',
+  selector: 'bac-country-orders',
   styleUrls: ['./country-orders.component.scss'],
   template: `
     <nb-card [size]="breakpoint.width >= breakpoints.md ? 'medium' : 'xxlarge'">
