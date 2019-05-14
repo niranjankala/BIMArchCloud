@@ -4,7 +4,7 @@ import * as L from 'leaflet';
 import 'style-loader!leaflet/dist/leaflet.css';
 
 @Component({
-  selector: 'ngx-leaflet',
+  selector: 'bac-leaflet',
   styleUrls: ['./leaflet.component.scss'],
   template: `
     <nb-card>

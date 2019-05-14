@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'ngx-form-elements',
+  selector: 'bac-form-elements',
   template: `
     <router-outlet></router-outlet>
   `,

@@ -39,16 +39,7 @@ const routes: Routes = [{
   }, {
     path: 'forms',
     loadChildren: './forms/forms.module#FormsModule',
-  },
-  {
-    path: 'babylon',
-    loadChildren: './babylon/babylon.module#BabylonModule',
-  },
-  {
-    path: 'threejs',
-    loadChildren: './threejs/threejs.module#ThreeJsModule',
-  },
-  {
+  }, {
     path: 'tables',
     loadChildren: './tables/tables.module#TablesModule',
   }, {

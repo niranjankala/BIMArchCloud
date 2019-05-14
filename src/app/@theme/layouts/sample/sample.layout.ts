@@ -13,7 +13,7 @@ import { StateService } from '../../../@core/utils';
 
 // TODO: move layouts into the framework
 @Component({
-  selector: 'ngx-sample-layout',
+  selector: 'bac-sample-layout',
   styleUrls: ['./sample.layout.scss'],
   template: `
     <nb-layout [center]="layout.id === 'center-column'" windowMode>

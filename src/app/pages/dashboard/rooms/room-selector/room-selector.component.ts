@@ -1,7 +1,7 @@
 import { Component, EventEmitter, Output } from '@angular/core';
 
 @Component({
-  selector: 'ngx-room-selector',
+  selector: 'bac-room-selector',
   templateUrl: './room-selector.component.html',
   styleUrls: ['./room-selector.component.scss'],
 })

@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { NgxEchartsModule } from 'ngx-echarts';
+import { NgxEchartsModule } from 'bac-echarts';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { ChartModule } from 'angular2-chartjs';
 
