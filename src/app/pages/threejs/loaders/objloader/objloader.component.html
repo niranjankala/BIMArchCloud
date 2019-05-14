@@ -1,4 +1,4 @@
-<nb-card>
+{% comment %} <nb-card>
   <nb-card-body>
     <div class="action-groups-header">
       Action Groups
@@ -14,4 +14,6 @@
       <nb-action icon="nb-gear"></nb-action>
     </nb-actions>
   </nb-card-body>
-</nb-card>
+</nb-card> {% endcomment %}
+<canvas #canvas (mousedown)="onMouseDown($event)" (mouseup)="onMouseUp($event)">
+</canvas>
