@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Location } from './entity/Location';
 
 @Component({
-  selector: 'bac-search-map',
+  selector: 'ngx-search-map',
   templateUrl: './search-map.component.html',
 })
 export class SearchMapComponent {

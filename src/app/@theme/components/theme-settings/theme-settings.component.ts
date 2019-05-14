@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 import { StateService } from '../../../@core/utils';
 
 @Component({
-  selector: 'bac-theme-settings',
+  selector: 'ngx-theme-settings',
   styleUrls: ['./theme-settings.component.scss'],
   template: `
     <h6>LAYOUTS</h6>

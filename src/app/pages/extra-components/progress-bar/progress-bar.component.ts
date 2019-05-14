@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-progress-bar',
+  selector: 'ngx-progress-bar',
   templateUrl: 'progress-bar.component.html',
   styleUrls: ['progress-bar.component.scss'],
 })

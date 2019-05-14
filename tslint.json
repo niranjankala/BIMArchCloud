@@ -105,13 +105,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "ngx",
+      "bac",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "ngx",
+      "bac",
       "kebab-case"
     ],
     "ban": [

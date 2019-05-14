@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-team',
+  selector: 'ngx-team',
   styleUrls: ['./team.component.scss'],
   templateUrl: './team.component.html',
 })

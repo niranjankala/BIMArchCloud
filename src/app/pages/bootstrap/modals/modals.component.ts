@@ -4,7 +4,7 @@ import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ModalComponent } from './modal/modal.component';
 
 @Component({
-  selector: 'bac-modals',
+  selector: 'ngx-modals',
   styleUrls: ['./modals.component.scss'],
   templateUrl: './modals.component.html',
 })

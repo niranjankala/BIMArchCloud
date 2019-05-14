@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-icon-buttons',
+  selector: 'ngx-icon-buttons',
   styleUrls: ['./icon-buttons.component.scss'],
   templateUrl: './icon-buttons.component.html',
 })

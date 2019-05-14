@@ -2,7 +2,7 @@ import { NbMenuService } from '@nebular/theme';
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-not-found',
+  selector: 'ngx-not-found',
   styleUrls: ['./not-found.component.scss'],
   templateUrl: './not-found.component.html',
 })

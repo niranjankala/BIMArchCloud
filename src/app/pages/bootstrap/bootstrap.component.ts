@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-bootstrap',
+  selector: 'ngx-bootstrap',
   template: `
     <router-outlet></router-outlet>
   `,

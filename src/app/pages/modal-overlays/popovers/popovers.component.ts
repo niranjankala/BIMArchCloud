@@ -5,7 +5,7 @@ import {
 } from './popover-examples.component';
 
 @Component({
-  selector: 'bac-popovers',
+  selector: 'ngx-popovers',
   styleUrls: ['./popovers.component.scss'],
   templateUrl: './popovers.component.html',
 })

@@ -5,7 +5,7 @@ import {
 const VIEW_BOX_SIZE = 300;
 
 @Component({
-  selector: 'bac-temperature-dragger',
+  selector: 'ngx-temperature-dragger',
   templateUrl: './temperature-dragger.component.html',
   styleUrls: ['./temperature-dragger.component.scss'],
 })

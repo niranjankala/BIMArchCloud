@@ -2,7 +2,7 @@ import { Component, OnDestroy } from '@angular/core';
 import { NbThemeService } from '@nebular/theme';
 
 @Component({
-  selector: 'bac-d3-polar',
+  selector: 'ngx-d3-polar',
   template: `
     <ngx-charts-polar-chart
       [scheme]="colorScheme"

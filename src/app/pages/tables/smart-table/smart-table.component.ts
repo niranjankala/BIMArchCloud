@@ -4,7 +4,7 @@ import { LocalDataSource } from 'ng2-smart-table';
 import { SmartTableData } from '../../../@core/data/smart-table';
 
 @Component({
-  selector: 'bac-smart-table',
+  selector: 'ngx-smart-table',
   templateUrl: './smart-table.component.html',
   styles: [`
     nb-card {

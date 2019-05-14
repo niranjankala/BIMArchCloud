@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-spinner-color',
+  selector: 'ngx-spinner-color',
   templateUrl: 'spinner-color.component.html',
 })
 

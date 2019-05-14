@@ -3,7 +3,7 @@ import { NbCalendarRange, NbDateService } from '@nebular/theme';
 import { DayCellComponent } from './day-cell/day-cell.component';
 
 @Component({
-  selector: 'bac-calendar',
+  selector: 'ngx-calendar',
   templateUrl: 'calendar.component.html',
   styleUrls: ['calendar.component.scss'],
   entryComponents: [DayCellComponent],

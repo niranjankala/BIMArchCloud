@@ -4,7 +4,7 @@ import { NbThemeService } from '@nebular/theme';
 import { LayoutService } from '../../../@core/utils';
 
 @Component({
-  selector: 'bac-traffic-chart',
+  selector: 'ngx-traffic-chart',
   styleUrls: ['./traffic.component.scss'],
   template: `
     <div echarts

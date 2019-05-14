@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-button-groups',
+  selector: 'ngx-button-groups',
   styleUrls: ['./button-groups.component.scss'],
   templateUrl: './button-groups.component.html',
 })

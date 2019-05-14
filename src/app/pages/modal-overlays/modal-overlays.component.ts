@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-modal-overlays',
+  selector: 'ngx-modal-overlays',
   template: `
     <router-outlet></router-outlet>
   `,

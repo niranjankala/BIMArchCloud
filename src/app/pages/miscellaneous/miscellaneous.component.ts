@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-miscellaneous',
+  selector: 'ngx-miscellaneous',
   template: `
     <router-outlet></router-outlet>
   `,

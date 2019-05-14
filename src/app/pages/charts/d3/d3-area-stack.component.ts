@@ -2,7 +2,7 @@ import { Component, OnDestroy } from '@angular/core';
 import { NbThemeService } from '@nebular/theme';
 
 @Component({
-  selector: 'bac-d3-area-stack',
+  selector: 'ngx-d3-area-stack',
   template: `
     <ngx-charts-area-chart
       [scheme]="colorScheme"

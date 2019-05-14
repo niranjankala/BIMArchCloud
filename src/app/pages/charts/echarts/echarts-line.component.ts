@@ -2,7 +2,7 @@ import { AfterViewInit, Component, OnDestroy } from '@angular/core';
 import { NbThemeService } from '@nebular/theme';
 
 @Component({
-  selector: 'bac-echarts-line',
+  selector: 'ngx-echarts-line',
   template: `
     <div echarts [options]="options" class="echart"></div>
   `,

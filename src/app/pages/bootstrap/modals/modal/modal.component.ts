@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
-  selector: 'bac-modal',
+  selector: 'ngx-modal',
   template: `
     <div class="modal-header">
       <span>{{ modalHeader }}</span>

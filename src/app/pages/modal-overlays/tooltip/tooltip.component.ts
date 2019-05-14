@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-tooltip',
+  selector: 'ngx-tooltip',
   templateUrl: 'tooltip.component.html',
   styleUrls: ['tooltip.component.scss'],
 })

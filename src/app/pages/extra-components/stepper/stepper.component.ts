@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
 @Component({
-  selector: 'bac-stepper',
+  selector: 'ngx-stepper',
   templateUrl: 'stepper.component.html',
   styleUrls: ['stepper.component.scss'],
 })

@@ -10,7 +10,7 @@ interface CardSettings {
 }
 
 @Component({
-  selector: 'bac-dashboard',
+  selector: 'ngx-dashboard',
   styleUrls: ['./dashboard.component.scss'],
   templateUrl: './dashboard.component.html',
 })

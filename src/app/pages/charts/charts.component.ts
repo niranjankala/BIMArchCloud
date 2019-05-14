@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-charts',
+  selector: 'ngx-charts',
   template: `
     <router-outlet></router-outlet>
   `,

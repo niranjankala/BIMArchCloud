@@ -9,7 +9,7 @@ import { takeWhile } from 'rxjs/operators';
 
 
 @Component({
-  selector: 'bac-country-orders-map',
+  selector: 'ngx-country-orders-map',
   styleUrls: ['./country-orders-map.component.scss'],
   template: `
     <div leaflet [leafletOptions]="options" [leafletLayers]="layers" (leafletMapReady)="mapReady($event)"></div>

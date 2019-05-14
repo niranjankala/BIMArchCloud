@@ -5,7 +5,7 @@ import { LayoutService } from '../../../../@core/utils/layout.service';
 
 
 @Component({
-  selector: 'bac-visitors-statistics',
+  selector: 'ngx-visitors-statistics',
   styleUrls: ['./visitors-statistics.component.scss'],
   templateUrl: './visitors-statistics.component.html',
 })

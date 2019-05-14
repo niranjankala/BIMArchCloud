@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-spinner',
+  selector: 'ngx-spinner',
   templateUrl: 'spinner.component.html',
   styleUrls: ['spinner.component.scss'],
 })

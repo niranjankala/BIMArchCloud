@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-action-groups',
+  selector: 'ngx-action-groups',
   styleUrls: ['./action-groups.component.scss'],
   templateUrl: './action-groups.component.html',
 })

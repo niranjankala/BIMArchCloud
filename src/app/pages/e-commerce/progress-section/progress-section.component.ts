@@ -3,7 +3,7 @@ import { ProgressInfo, StatsProgressBarData } from '../../../@core/data/stats-pr
 import { takeWhile } from 'rxjs/operators';
 
 @Component({
-  selector: 'bac-progress-section',
+  selector: 'ngx-progress-section',
   styleUrls: ['./progress-section.component.scss'],
   templateUrl: './progress-section.component.html',
 })

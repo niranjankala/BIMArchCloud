@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-tree',
+  selector: 'ngx-tree',
   templateUrl: './tree.component.html',
   styleUrls: ['./tree.component.scss'],
 })

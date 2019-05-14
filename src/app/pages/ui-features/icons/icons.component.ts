@@ -2,7 +2,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { icons } from 'eva-icons';
 
 @Component({
-  selector: 'bac-icons',
+  selector: 'ngx-icons',
   styleUrls: ['./icons.component.scss'],
   templateUrl: './icons.component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,

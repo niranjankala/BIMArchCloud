@@ -3,7 +3,7 @@ import { Camera, SecurityCamerasData } from '../../../@core/data/security-camera
 import { takeWhile } from 'rxjs/operators';
 
 @Component({
-  selector: 'bac-security-cameras',
+  selector: 'ngx-security-cameras',
   styleUrls: ['./security-cameras.component.scss'],
   templateUrl: './security-cameras.component.html',
 })

@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-outline-buttons',
+  selector: 'ngx-outline-buttons',
   styleUrls: ['./outline-buttons.component.scss'],
   templateUrl: './outline-buttons.component.html',
 })

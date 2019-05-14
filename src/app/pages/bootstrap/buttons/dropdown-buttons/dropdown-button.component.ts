@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-dropdown-buttons',
+  selector: 'ngx-dropdown-buttons',
   styleUrls: ['./dropdown-button.component.scss'],
   templateUrl: './dropdown-button.component.html',
 })

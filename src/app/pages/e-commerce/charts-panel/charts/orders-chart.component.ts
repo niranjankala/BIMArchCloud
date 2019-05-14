@@ -6,7 +6,7 @@ import { OrdersChart } from '../../../../@core/data/orders-chart';
 import { LayoutService } from '../../../../@core/utils/layout.service';
 
 @Component({
-  selector: 'bac-orders-chart',
+  selector: 'ngx-orders-chart',
   styleUrls: ['./charts-common.component.scss'],
   template: `
     <div echarts

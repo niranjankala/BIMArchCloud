@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'bac-traffic-bar',
+  selector: 'ngx-traffic-bar',
   styleUrls: ['./traffic-bar.component.scss'],
   templateUrl: './traffic-bar.component.html',
 })

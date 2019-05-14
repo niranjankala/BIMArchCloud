@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 
-import { NgxEchartsModule } from 'bac-echarts';
+import { NgxEchartsModule } from 'ngx-echarts';
 
 import { ThemeModule } from '../../@theme/theme.module';
 import { DashboardComponent } from './dashboard.component';

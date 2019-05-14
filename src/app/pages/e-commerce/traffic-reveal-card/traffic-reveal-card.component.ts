@@ -4,7 +4,7 @@ import { TrafficBarData, TrafficBar } from '../../../@core/data/traffic-bar';
 import { takeWhile } from 'rxjs/operators';
 
 @Component({
-  selector: 'bac-traffic-reveal-card',
+  selector: 'ngx-traffic-reveal-card',
   styleUrls: ['./traffic-reveal-card.component.scss'],
   templateUrl: './traffic-reveal-card.component.html',
 })

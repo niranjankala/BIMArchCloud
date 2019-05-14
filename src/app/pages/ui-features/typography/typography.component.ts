@@ -2,7 +2,7 @@ import { Component, OnDestroy } from '@angular/core';
 import { NbThemeService, NbMediaBreakpoint, NbMediaBreakpointsService } from '@nebular/theme';
 
 @Component({
-  selector: 'bac-typography',
+  selector: 'ngx-typography',
   styleUrls: ['./typography.component.scss'],
   templateUrl: './typography.component.html',
 })

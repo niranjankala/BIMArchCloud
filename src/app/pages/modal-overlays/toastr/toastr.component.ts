@@ -6,7 +6,7 @@ import { NbGlobalLogicalPosition, NbGlobalPhysicalPosition, NbGlobalPosition, Nb
 import { NbToastStatus } from '@nebular/theme/components/toastr/model';
 
 @Component({
-  selector: 'bac-toastr',
+  selector: 'ngx-toastr',
   styleUrls: ['./toastr.component.scss'],
   templateUrl: './toastr.component.html',
 })

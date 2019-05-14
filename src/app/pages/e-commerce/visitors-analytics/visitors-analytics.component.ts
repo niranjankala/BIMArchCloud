@@ -6,7 +6,7 @@ import { forkJoin } from 'rxjs';
 
 
 @Component({
-  selector: 'bac-ecommerce-visitors-analytics',
+  selector: 'ngx-ecommerce-visitors-analytics',
   styleUrls: ['./visitors-analytics.component.scss'],
   templateUrl: './visitors-analytics.component.html',
 })

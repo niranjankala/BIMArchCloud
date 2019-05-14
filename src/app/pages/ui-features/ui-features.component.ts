@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'bac-ui-features',
+  selector: 'ngx-ui-features',
   template: `
     <router-outlet></router-outlet>
   `,

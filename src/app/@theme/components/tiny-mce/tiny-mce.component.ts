@@ -1,7 +1,7 @@
 import { Component, OnDestroy, AfterViewInit, Output, EventEmitter, ElementRef } from '@angular/core';
 
 @Component({
-  selector: 'bac-tiny-mce',
+  selector: 'ngx-tiny-mce',
   template: '',
 })
 export class TinyMCEComponent implements OnDestroy, AfterViewInit {
