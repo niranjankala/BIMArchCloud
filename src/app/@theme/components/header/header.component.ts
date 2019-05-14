@@ -6,7 +6,7 @@ import { AnalyticsService } from '../../../@core/utils';
 import { LayoutService } from '../../../@core/utils';
 
 @Component({
-  selector: 'ngx-header',
+  selector: 'bac-header',
   styleUrls: ['./header.component.scss'],
   templateUrl: './header.component.html',
 })

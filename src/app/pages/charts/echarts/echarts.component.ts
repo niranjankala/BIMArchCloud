@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'ngx-echarts',
+  selector: 'bac-echarts',
   styleUrls: ['./echarts.component.scss'],
   templateUrl: './echarts.component.html',
 })

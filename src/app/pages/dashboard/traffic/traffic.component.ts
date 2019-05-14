@@ -4,7 +4,7 @@ import { takeWhile } from 'rxjs/operators';
 import { TrafficChartData } from '../../../@core/data/traffic-chart';
 
 @Component({
-  selector: 'ngx-traffic',
+  selector: 'bac-traffic',
   styleUrls: ['./traffic.component.scss'],
   template: `
     <nb-card size="xsmall">
