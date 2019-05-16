@@ -147,7 +147,7 @@ export class ThreeJsObjLoaderComponent implements AfterViewInit {
       // this.renderer.setClearColor(0xffffff, 1);
       // this.renderer.autoClear = true;
 
-      let component: SceneComponent = this;
+      let component: ThreeJsObjLoaderComponent = this;
 
       (function render() {
           //requestAnimationFrame(render);
